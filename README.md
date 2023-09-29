@@ -42,6 +42,8 @@ https://XXX/admin/
     3. テンプレートにDBの値をセットしてViewを返す
     """
 5. 自動テスト
+6. css, imageの追加
+
 
 
 
